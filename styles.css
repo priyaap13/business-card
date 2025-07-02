@@ -1,0 +1,34 @@
+body {
+    margin: 20px;
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family:Taho;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: lemonchiffon;
+    color: 22223b;
+    border-bottom: 8px solid #d8cefe;
+    box-shadow: 10px 10px 10px lightblue;
+        
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+
+
